@@ -12,6 +12,10 @@ ProfileSVG = "132c30aa-f267-4189-9183-c8a63c7e05e6"
 
 [compat]
 julia = "1.6"
+AbstractTrees = "v0.3"
+FlameGraphs = "v0.2"
+Pluto = "v0.15"
+ProfileSVG = "v0.2"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
