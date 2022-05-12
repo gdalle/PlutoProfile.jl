@@ -1,7 +1,7 @@
 name = "PlutoProfile"
 uuid = "ee419aa8-929d-45cd-acf6-76bd043cd7ba"
 authors = ["Guillaume Dalle <22795598+gdalle@users.noreply.github.com> and contributors"]
-version = "0.3.0"
+version = "0.3.1"
 
 [deps]
 AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
@@ -11,9 +11,9 @@ Profile = "9abbd945-dff8-562f-b5e8-e1ebf5ef1b79"
 ProfileCanvas = "efd6af41-a80b-495e-886c-e51b0c7d77a3"
 
 [compat]
-AbstractTrees = "v0.3"
-FlameGraphs = "v0.2"
-Pluto = "0.18"
+AbstractTrees = "0.3"
+FlameGraphs = "0.2"
+Pluto = "0.18, 0.19"
 ProfileCanvas = "0.1"
 julia = "1.6"
 
